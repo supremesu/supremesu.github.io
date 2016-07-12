@@ -1,9 +1,9 @@
 
 ---
-layout: post   //不用改变
-title: beautiful  //文章的名称
-tags: 呵呵哒         //该标签和_post目录下的文件夹名字要一致。
+layout: post   
+title: beautiful  
+tags: 呵呵哒        
 Description: 我的description
-category: 呵呵哒    //要和tags值一致
+category: 呵呵哒    
 ---
 第一次上传 嘿嘿嘿~

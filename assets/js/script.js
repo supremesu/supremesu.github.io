@@ -12,11 +12,11 @@ if ($(window).width() <= 1280) {
 
 // Variables
     tag1       = $('.pl__all'),
-    tag2       = $('.我的空间'),
-    tag3       = $('.My life'),
+    tag2       = $('.My life'),
+    tag3       = $('.my memory'),
     tag4       = $('.enjoy music'),
-    tag5       = $('.my memory'),
-    tag6       = $('.呵呵哒');
+    tag5       = $('.呵呵哒'),
+    tag6       = $('.empty');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
